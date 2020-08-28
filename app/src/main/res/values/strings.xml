@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">javaBase</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dialog_continue">Continue</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="time_out_error">Time Error</string>
+</resources>
